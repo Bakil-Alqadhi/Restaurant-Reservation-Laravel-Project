@@ -177,9 +177,8 @@
                     <h2 class="text-3xl font-semibold text-gray-800">Food</h2>
                     <p class="mt-2 text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores
                         deserunt
-                        ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis
-                        pariatur
-                        minus consequuntur!</p>
+                        ea doloremque natus error, rerum nam ex commodi hic, suscipit in a veritatis
+                        pariatur minus consequuntur!</p>
                 </div>
                 <div class="flex justify-end mt-4">
                     <a href="#" class="text-xl font-medium text-green-500">John Doe</a>
