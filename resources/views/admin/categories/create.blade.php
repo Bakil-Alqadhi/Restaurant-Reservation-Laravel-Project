@@ -15,7 +15,7 @@
 
             <div class="md:grid w-full  md:gap-6 p-2 py-4">
                 <form method="POST" action="{{ route('admin.categories.store') }}" enctype="multipart/form-data">
-                    @csrf
+
                     <div class="overflow-hidden w-full shadow sm:rounded-md">
                         <div class="px-4 py-5 w-full sm:p-6 bg-slate-100">
                             <div class="grid grid-cols-6 gap-6">
